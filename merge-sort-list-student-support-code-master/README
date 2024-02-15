@@ -1,0 +1,8 @@
+[Question 1] What is the time and space complexity of your merge() function?
+    The time complexity of my merge() function is O(n) and the space complexity is O(n).
+[Question 2] What is the time and space complexity of your sort() function?
+    The time complexity of my sort() function is O(n log(n)) and the space complexity is O(n).
+[Question 3] What is the time and space complexity of your merge_in_place() function?
+    The time complexity of my merge_in_place() is O(n) and the space complexity is O(1).
+[Question 4] What is the time and space complexity of your sort_in_place() function?
+    The time complexity of my sort_in_place() is O(n log(n)) and the space complexity is O(1).
